@@ -29,17 +29,17 @@ Declaration of winners and closure of contest
 
 Important Dates of TCS Talent Ocean:
 
-TCS Talent Ocean Registration Starts on: 7h December 2020, 12 30 UTC
+TCS Talent Ocean Registration Starts on: 7th December 2020, 12 30 UTC
 
-TCS Talent Ocean Registration Ends on: 17 December 2020. 12 30 UTC
+TCS Talent Ocean Registration Ends on: 17 December 2020, 12 30 UTC
 
 ### Contest Rounds of TCS Talent Ocean 2020:
 
 #### Solution Submission Round
 
-• Sports: 18ih Dec, 2020, 1430 UTC
+• Sports: 18th Dec, 2020, 1430 UTC
 
-• Ends. 31st Dec. 2020. 14:30 UTC
+• Ends. 31st Dec, 2020, 14:30 UTC
 
 • Taken Place Online
 
@@ -47,6 +47,6 @@ TCS Talent Ocean Registration Ends on: 17 December 2020. 12 30 UTC
 
 • Starts: 7th Jan, 2021, 12:30 UTC
 
-• Enela 15h Jat, 2021, 12:30 UTC
+• Ends 15th Jat, 2021, 12:30 UTC
 
 • Takes Place Online
