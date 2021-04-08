@@ -1,0 +1,558 @@
+location,skills,internship_id
+chennai,"c,python,python 3,java,android,android testing,c++",p10
+kolkata,"ansible,jenkins,docker,aws,kubernetes,big data,python,machine learning,linux,openshift,cloud computing","p10,p94"
+kolkata,"java,j2ee,python,c,data structures","p10,p94,p318"
+chennai,"c,c++,matlab,java,html,css,processing js,mysql,simulink,arduino","p103,p155"
+chennai,"python,r programming,machine learning,data analysis,computer vision,big data processing,sql,c++ c ,android",p109
+bangalore,"c,r,python,sql",p109
+chennai,"c,c++,python,java,machine learning,natural language programming","p109,p204,p494"
+chennai,"java,c++,machine learning",p11
+chennai,"c++,python,java,machine learning,nodejs,express,unix,aws ec2,oops","p11,p12,p13"
+chennai,"c++,java,python","p11,p366,p382"
+kolkata,"c++,html,css,bootstrap,nodejs,mongo db,python",p110
+ahmedabad,"java,python,android,flutter,c,html,css,javascript,php,firestore,sql,assembly language","p114,p218"
+chennai,"java,data structures,html,php,object oriented programming,css,machine learning,javascript,python,cuda,deep learning",p12
+chennai,"c,c++,java,machine learning,data visualization,data structures and algorithm,html and css,php,sql",p120
+chennai,"c++,python,java,data structures",p124
+hyderabad,"python,embedded c,arm programming,adobe photoshop,mysql,ni labview,matlab","p125,p189,p287"
+mumbai,"c,c++,core java,data structure,python,mysql","p126,p138"
+hyderabad,python,p127
+chennai,"data science,python,c++,web development,machine learning","p127,p242,p347"
+delhi,"java,python,my sql,linux,deep learning,html,internet of things,image video processing","p127,p302,p333"
+kolkata,"c,c++,java,python",p128
+delhi,"c++,python,web development,data structures and algorithm,javascript,nodejs","p128,p166,p169,p287"
+kolkata,"machine learning,deep learning,html,javascript,css,cloud computing gcp ,iot,cloud computing aws",p129
+ahmedabad,"c++,python,machine learning,iot",p129
+chennai,"c,java,c++,python","p129,p212"
+hyderabad,"python,c,machine learning,deep learning,java,blockchain,iot",p13
+chennai,"java,python,blockchain technology,android studio,c++","p13,p137"
+chennai,"python,c,c++,java script,aws cloud practitioner,labview,matlab",p130
+chennai,"c,java,my sql",p130
+chennai,"c++,python,labview,c","p130,p475"
+hyderabad,"c,python,java,reactnative","p133,p135"
+chennai,"c,c++,matlab,vm lab,multisim,java,ms word,ms powerpoint,ms excel",p135
+chennai,"c,matlab,c++,python,nueral networks","p135,p139"
+chennai,"digital circuits,python,java,c,microprocessor and microcontroller",p137
+chennai,"python,java,c","p137,p419,p448"
+hyderabad,"c,java,mysql,python",p138
+hyderabad,"python,java,tensorflow",p139
+hyderabad,"c++,c,python,java,mysql,java script,html css,cloud computing,shell scripting","p139,p163"
+chennai,"c,python,java","p139,p473,p475,p419,p422"
+chennai,"python,java,html css js,linux shell scripting,os,internet of things",p140
+chennai,"arduino,python,c","p140,p475"
+chennai,"java,sql,reactjs,html,css,python,network security,cryptography",p141
+hyderabad,"java,python,php",p141
+hyderabad,"c,c++,data structures and algorithm,android app development,python,sql,machine learning,web development,big data analytics","p141,p162,p382"
+hyderabad,"c,c++,java,python,mysql,html,css","p141,p183"
+hyderabad,"java,python,data structures and algorithm,machine learning,deep learning,sql,web technologies",p149
+hyderabad,"c,java,python,data structures,sql",p149
+hyderabad,"python,data structures,machine learning, ai","p149,p153"
+hyderabad,"python,c,java,javacsript,html,css","p149,p153"
+hyderabad,"python,c++,c,django,java,algorithm and data structures,project management",p151
+ahmedabad,"c++,c,python,java",p151
+chennai,"c,python,c++",p151
+hyderabad,"problem solving,coding skills,c language,python,java,android development","p151,p474"
+hyderabad,"c,c++,java,html,css,javascript,php,python,sql,mysql,android","p153,p161"
+hyderabad,"c,c++,java,python,mongo db,sql,php,bootstrap",p155
+hyderabad,"c language,python,html,css,core java,mysql",p155
+chennai,"html,java,python,c,c++,javascript,sql","p155,p156"
+chennai,"c,java,python,keras,numpy,c++",p156
+chennai,"c++,java,sql","p156,p530"
+chennai,"c++,java,deep learning,sql,operating systems,python","p156,p531"
+hyderabad,"python,java,c,jquery,html,css,selenium,android",p157
+chennai,"machine learning,c,c++,data structures,dbms,python",p157
+chennai,"java,python,mysql,aws,cassandra,spring boot,docker,machine learning","p157,p323,p356"
+hyderabad,"java,python,c c++,django,android,javascript,html,css",p158
+chennai,"c++,dbms,data structures,java","p158,p455"
+chennai,"java,hadoop,android,python,sql,html,css,machine learning,web development,cryptography,natural language processing",p159
+hyderabad,"c,c++ programming,java programming,python programming,r programming,scala programming",p159
+hyderabad,"c++,java,c,sql,html,css","p159,p162"
+chennai,python,"p160,p161"
+chennai,"cad design using creo,programming using python,machine learning,data analytics,programming using c,web technology","p160,p175"
+delhi,"machine learning,sql,python,data structures,artificial intelligence,java,system design,web development,c,statistics,object oriented programming",p162
+hyderabad,"c,c++,java,python,html,css,object oriented programming",p164
+hyderabad,"c,python,java,sql oracle database ,machine learning basics,computer vision,data structures,machine learning","p165,p327"
+kolkata,"java,android,digital marketing",p166
+kolkata,"python,javascript,c,c++,nodejs,flask,tensorflow,keras,scikit learn,linux shell utilities,git,mongo db","p167,p227"
+delhi,"c,c++,python,tenserflow,keras","p167,p227"
+chennai,"python,networking,ethical hacking,machine learning and ai,big data,cloud computing,java,c++","p170,p360"
+delhi,"python,c++,machine learning,deep learning,opencv",p171
+chennai,"c,c++,python,matlab,latex,opencv,arduino,ros,lua",p172
+hyderabad,"c,java,python,data structures and algorithm,machine learning,sql",p173
+chennai,"c,data structure,python,html and css","p175,p211"
+chennai,"c,c++,java,python",p181
+mumbai,"api development and testing,spring boot framework,java,c,c++,data structures,junit5,jacoco,postman,spring security,spring reactive","p181,p325"
+chennai,"web development,angular",p182
+chennai,"python,html css javascript,bootstrap,reactjs,reactnative,java,mysql oracle,oops,materialize css",p182
+chennai,"cloud computing aws,networking,digital circuits,artificial intelligence machine learning deep learning,data analytics,blockchain",p186
+chennai,"c++,c,java",p186
+chennai,"animation and game development,app designing,python programming,networking,electronics,core java",p186
+chennai,"python ,c,big data,video editing,iots,business analytics,microsoft office","p186,p192"
+bangalore,"python,image processing,computer vision,neural networks,machine learning,deep learning",p189
+chennai,"frontend web development,vue.js,c++,python,nodejs,data structures,algorithm",p197
+delhi,"c,c++,java,python,jsp,data structures,sql,nosql,competitive programming,html,css,javascript,cloud computing,aws,object oriented programming,hadoop",p197
+kolkata,"web design,python,c++,java",p198
+kolkata,"c,c++,data structures,python,big data,cloud computing,internet of things",p199
+chennai,"python,java,c++,c","p20,p126,p259"
+chennai,"c,java,matlab,gnuradio,python,html","p20,p24"
+chennai,"programming in java,programming in c,programming in c++,python programming,html css javascript","p20,p63"
+chennai,"c,c++,python","p20,p63,p494,p330,p350"
+kolkata,"python,c,c++,database,sql,computer vision,machine learning,image processing,pattern recognition,data warehouse,opencv,deep learning,data science,aws,git,gcp,nosql,mongo db,statistics,tensorflow,pytorch,flask,tkinter,html",p200
+ahmedabad,"unity3d,ar,image processing,web frontend,web backend,deep learning,blockchain,internet of things",p201
+hyderabad,"c language,c++,java,nodejs,mysql,html,css,javascript,spring boot,unity,c sharp,google cloud platform",p201
+hyderabad,"c,java,python,html,javascript,css,mysql,terraform,aws,docker,kubernetes,machine learning","p201,p313"
+chennai,"nodejs,angular,javascript,c++,python,html,css",p203
+mumbai,"c++,python,java,android,data structures algorithm,problem solving,web app development,entrepreneurship,cloud computing,react native,git github,graphics designing,microsoft azure,react js",p203
+hyderabad,"c,python,android app development,machine learning",p203
+pune,"java,cloud computing,iot,c,object oriented programming,html,mysql,machine learning",p204
+chennai,"java,android studio,python,basic ml,rdbms",p204
+chennai,"html,css,java,python,node js,machine learning,react native",p204
+ahmedabad,"spring boot,dbms,algorithm and data structures,machine learning,rest api,cloud computing,coding theory",p205
+chennai,"python,c,java","p21,p120"
+chennai,"internet of things,python,arduino controller,robo analyzer","p211,p298,p331,p386,p497"
+chennai,"c,c++,python,solidworks,ansys fluent,auto cad","p211,p395"
+chennai,"react js,node js,python,tensorflow,machine learning algorithm,mysql,mongo db,computer vision,express,angular,go","p212,p299"
+mumbai,"python,machine learning,sql",p217
+bangalore,"machine learning,deep learning,artificial intelligence,text analytics,natural language processing,information retrieval,app development,web development,full stack development",p217
+kolkata,"python,c,database,arduino","p220,p265"
+kolkata,"shell scripting,vapt,ethical hacking,python,java,c ,machine learning,internet of things","p220,p268"
+kolkata,"python,c,java programming",p224
+kolkata,"java,python","p227,p353"
+chennai,"mobile app development,deep learning,python,c++","p227,p380"
+chennai,"java,c++,data structures,sql,git,typescript","p227,p466,p516"
+chennai,"java,minitab,python,html,marketing,management,salesforce,business,operations","p23,p317,p345"
+chennai,"c++,c,sql,oops,python,java,data structures and algorithm,objected oriented programming","p23,p70,p92"
+chennai,"c language,c++ language,python,matlab,wireshark,gnu radio,verilog,system verilog",p24
+kolkata,"machine learning,c++ python,front end development,java,android app development,neural networks",p240
+chennai,"deep learning,machine leanring,computer vision,keras,tensorflow,python,c++",p240
+chennai,"c++,c,java,node js,php,oauth,mongo db,react js,angular js,html css,full stack development",p240
+ahmedabad,"java,python,angular,flutter,spring boot","p243,p313"
+kolkata,"java,dbms,html,css,php,c","p243,p343"
+chennai,"python,c++,c,java,html,cuda,perl",p246
+chennai,"python,java,c++,image processing,tensorflow,keras,algorithm,debugging",p248
+kolkata,"c++,python,machine learning,data structure and algorithm",p248
+chennai,"c,html,machine learning","p249,p259,p386"
+chennai,"c,java,python,machine learning","p249,p391,p395"
+chennai,"cisco packet tracer,c,c++,java,python,java script,arduino,solidity,cuda,assembly 8086 and 8051,sql,scratch cat,sam animation,html css,r,octave,lego nxt,amazon alexa","p25,p115"
+chennai,"c,c++,python,r programming,microsoft excel word powerpoint,matlab,machine learning","p25,p292"
+chennai,"c,sql,html,java,data structures",p250
+chennai,"java programming,python,data structures and algorithm",p252
+chennai,"c,c++,java,python,frontend development,jquery,angular js,android studio,matlab","p252,p494"
+delhi,"python,machine learning,artificial intelligence,blockchain technology,c++,data web mining,computer vision,image processing","p253,p255"
+kolkata,"java,python,c,html,machine learning,sql on oracle database,j2ee,html css js,dbms,data structure,html css and js","p253,p361"
+bangalore,"c++,c,java,python,mysql,html,css,javascript,bootstrap",p254
+chennai,"c,c++,python,r programming",p255
+kolkata,python,"p255,p319"
+delhi,"python,machine learning,deep learning,embedded systems,automation and robotics,image processing",p256
+chennai,"c++,python,java,sql",p256
+hyderabad,"coding,communication skills","p257,p272"
+chennai,"blockchain,machine learning,python programming,c,database","p259,p421"
+chennai,"c++,flutter dart,python,java,javascript,spring boot","p26,p78"
+kolkata,"c c++,python,arduino",p264
+delhi,"python,machine learning,java,opencv","p264,p309"
+chennai,"python,c++,data analytics,data visualization,tableau,sas,html,css","p264,p422"
+delhi,"c++,machine learning,sql,django,python,android development","p264,p462"
+delhi,"java,sql,html,css,javascript,python,c++,c,php",p265
+chennai,"java se,cloud computing,java ee,iot,docker",p267
+chennai,"python,c,c++,java","p268,p535"
+hyderabad,"c,python,java",p272
+chennai,"python,wireshark,c c++,machine learning,java",p273
+kolkata,"java,python,c,r,mathematics,digital signal processing,neural networks","p280,p304"
+chennai,"c++,c,java,python,sql,embedded c arduino programming ,unity,unix","p284,p320"
+chennai,"web development,iot,algorithm and analysis design,data structure,python,c++,computer networks,javascript,java","p284,p334"
+kolkata,"r programming,python,sas",p286
+hyderabad,"java,python,c,sql,html",p291
+hyderabad,"c++,java,python,data structures,algorithm,numpy pandas",p291
+delhi,"python,c,c++,html,css,bootstrap,javascript,java,core java,numpy,pandas,nodejs,angular,express.js,jdbc,sqlite,matplotlib,adobe photoshop,adobe illustrator,django","p291,p302"
+hyderabad,"c,c++,java,python,sql,html css,django,javascript,android app development","p291,p466,p474"
+chennai,"c,data structures and algorithm,web development","p292,p422,p477"
+delhi,"competitive coding,machine learning,c++,data structures","p294,p402"
+chennai,"c,java","p295,p292"
+chennai,"c,c++,java,android studio,python,arduino",p298
+hyderabad,"html,c,c++,python,r,java,dbms,sql","p298,p382"
+chennai,"c,python,blockchain",p299
+chennai,"java,c c++,python,mysql,angular,html,php,javafx,jdbc,js,oops,dsa,aws,mathematics","p299,p325"
+chennai,"c language,c++,java,python,html,css,javascript,data structures and algorithm,database management system","p299,p422,p477"
+kolkata,"java,android,nodejs,typescript,firebase,python,spring boot,microservices",p3
+kolkata,"embedded systems,android development",p3
+chennai,"c,c++,java,python,computer networks","p30,p173"
+delhi,"blockchain,c,java,coding,data structures,algorithm",p300
+kolkata,"javascript,angular,nodejs,mongo db,c,c++,html,css,python,reactjs",p303
+kolkata,"c,core java,python 3.0,data structure and algorithm,dbms,machine learning,flask",p303
+kolkata,"java,c++,c,mongo db,sql,dbms,html,css,javascript,os,networking,linux,python,git,perl,prolog,nodejs",p304
+mumbai,"node js,javascript,react js,react native,mongo db,mysql,python,java,html,css,rest api","p304,p402"
+chennai,"nodejs,c++,python,mongo db",p307
+chennai,"c++,java,javascript,python,react",p307
+chennai,"python,c++,data visualization,machine and deep learning,full stack web development","p307,p309"
+bangalore,"machine learning,data science, python,c++,android development, java,nodejs",p313
+delhi,"data structures and algorithm,programming skills,problem solving",p313
+chennai,"c,c++,java,python,japanese,os,dbms","p313,p316,p317"
+mumbai,"c++,python,javascript,machine learning",p314
+mumbai,"c++,python,html,css,core java",p314
+mumbai,"c++,data structures,html css,python,java script",p314
+pune,"c++,java,python,mysql,html",p315
+kolkata,"c,python,c++,data structure",p315
+hyderabad,"python,java,pega tool,machine learning,deep learning,html css js microservices","p315,p387"
+chennai,"html,css,php,python,java",p316
+pune,"c,c++,python,java,android",p316
+chennai,"arduino,java,c,matlab,python,visual c++,android native",p316
+delhi,"c,c++,python,html,css,javascript,jquery,nodejs,mysql,solidity",p317
+chennai,"python,c++,sql,adobe photoshop","p317,p446"
+kolkata,"python,elastic search,c sharp,object oriented programming,rest api,git,asp.net,c,java,agile",p318
+kolkata,"java,c,c++,python,iot",p318
+kolkata,"java,machine learning,python,git,c,database management systems,android app development","p318,p347"
+kolkata,"python,java,c,html,coding,machine learning,dbms sql",p319
+kolkata,"java,python,iot,c,android app development",p319
+kolkata,"python,java,c,machine learning,html css,java script,data structure,design and analysis of algorithm,computer networking","p319,p525,p527,p530"
+hyderabad,"python,c,java,.net",p322
+bangalore,"c language,java","p323,p324"
+chennai,"c,sql",p324
+delhi,"c,c++,java,mysql",p325
+hyderabad,"python,c,java","p327,p476,p180"
+chennai,"java,dbms","p328,p419"
+chennai,"c,python,c++,r programming",p330
+chennai,"image processing,c c++,java,python,iot,mongoose os,data structures,machine learning","p330,p332"
+delhi,"information security,c,networking,vulnerability assessment,cloud security,python","p331,p355"
+chennai,"java,php,c++,python,docker","p332,p353"
+ahmedabad,"aws,alexa,gcp,nodejs,android,java",p334
+chennai,"python,java,c c++","p335,p344"
+chennai,"c,c++,machine learning,data structures and algorithm","p335,p344"
+chennai,"c++,c,python,java,html,css,agile","p338,p339"
+kolkata,"c,java,python,c++,data structure,machine learning,cloud computing,dbms,internet of things,html,css,javascript,sql",p343
+kolkata,"c,java,python,machine learning,html,bootstrap,css,adobe photoshop",p345
+chennai,"c,java programming,c++,data mining,python,python libraries,big data analytics",p346
+hyderabad,"c language,j2se,j2me,php,python,algorithm,database,data analytics,html,css,javascript,front end technologies,android,xml,full stack developer,front end technologies html css js ,full stack developer front end server side ,good programming skills,machine learning,natural language processing,cnn,ann",p346
+kolkata,"python,machine learning,data analytics,c++ programming,c",p347
+delhi,"c,python,mysql,html,data science",p347
+kolkata,"c++,machine learning,web technology,competitive programming,html,css,javascript,bootstrap,python,front end web designer,artificial intelligence,iot,android development,web development","p347,p348,p459"
+ahmedabad,"c++,c,html,css,javascript,python,java",p348
+chennai,"c,c++,java,python,sql,adobe photoshop,adobe illustrator,r",p348
+chennai,"c,c++,python,labview,verilog","p35,p165"
+chennai,"c,java,mobile app development","p35,p419"
+chennai,"java,ms office,data science,python","p350,p351,p447"
+ahmedabad,"java,python,c,html,css,javascript,machine learning,data structures,big data analysis,mathematics",p353
+hyderabad,"c,c++,java,python,web technologies,database management systems",p355
+chennai,"java,python,js,android,machine learning,aws",p356
+bangalore,"c,c++,sql,python",p356
+kolkata,"spring boot,sql,bdd,java,html css bootstrap,javascript,jquery,selenium web driver automation,machine learning,python",p36
+mumbai,"python,java,machine learning,android",p36
+bangalore,"python,java,c,html,css,php,sql,dbms","p360,p462,p482"
+chennai,"seo,data analysis,c++","p360,p520,p522"
+bangalore,"c++,java,python,asp.net,html,sql,aws,opencl,mpi","p361,p365"
+chennai,"c,c++,python,machine learning,html,dbms",p362
+kolkata,"python,machine learning,c,c++","p363,p375"
+chennai,"c,c++,java programming,arduino coding",p364
+hyderabad,"c,c++,java,dbms,php mysql,python,c graphics,html,css","p364,p392,p450,p476"
+delhi,"c,c++ language,python,html","p364,p535"
+delhi,"full stack development,c++ programming,blockchain","p366,p367"
+kolkata,"c++,python,java,html,css,js,django","p366,p393"
+delhi,"java,web development,android development,machine learning","p366,p397"
+kolkata,"java,python,c,flutter,firebase,css,javascript,bootstrap,web development,nodejs",p367
+hyderabad,"angular,ionic,mongo db,node,python,html css javascript",p367
+ahmedabad,"android app developer ,web development",p367
+mumbai,"python,c language,c++,machine learning,data analysis",p368
+mumbai,"python,algorithm,database management system,coding,operating system,c++,docker,internet of things,devops,jenkins","p37,p315"
+ahmedabad,"c,python,java,machine learning,sql,dbms,php",p373
+kolkata,"python programming,machine learning,deep learning,c,data structures algorithm","p373,p383"
+chennai,"c++,c,python,java",p374
+trivandrum,"python,django,flask,html,javascript,c,mongo db,postgresql,php,bootstrap,scrapy",p375
+chennai,"python,unethical hacking,nodejs",p379
+chennai,"c,python,blockchain,web development,flutter,app development",p379
+hyderabad,"python,tensorflow,github,machine learning",p38
+kolkata,"python,android development,deep learning,java",p38
+hyderabad,"python,java,c c++,machine learning,deep learning,php server side development,data science,js full stack development","p38,p39"
+kolkata,java,"p380,p303"
+hyderabad,programming,p383
+kolkata,"c++,python,java,c,machine learning,data structures,algorithm,big data",p390
+chennai,"c,java,data structures,python,machine learning","p392,p420,p421"
+hyderabad,"c,sql,data structures,java",p393
+chennai,"c,java,python,unix",p395
+hyderabad,c,p397
+chennai,"c,c++,java,python,dbms,cloud computing,iot,digital marketing,mongo db,hadoop,cassandra db,sql",p398
+kolkata,"c,python","p4,p5"
+delhi,"c,matlab,python,eagle,arduino,raspberry pi","p4,p91"
+chennai,"java,python,machine learning,web development,internet of things",p420
+chennai,"c,python,deep learning","p420,p448"
+chennai,"java,c,html,javascript,php,python","p420,p477"
+chennai,"c,pega,java,html,bootstrap","p420,p477"
+chennai,"python,machine learning,c++,c,django,mysql",p421
+hyderabad,"python,c,java,machine learning,artificial intellegence",p421
+chennai,"dbms,data visualization,internet of things iot",p421
+chennai,"c,c++,python,rust,go",p447
+chennai,"java,html,css,javascript,selenium,jboss,linux rhel ,openshift,openstack,virtualization,ansible,mysql,php,data structures",p449
+chennai,"python,android studio,javascript","p454,p482"
+chennai,"java,machine learning,iot,python,web designing","p465,p518"
+chennai,"cloud computing,programming in python,programming in c,kubernetes",p47
+chennai,"java programming,c++ programming,c,unity","p47,p64,p176"
+chennai,"python,machine learning,deep learning,computer vision,natural language processing,tensorflow,keras,image processing",p470
+chennai,"programming in c,programming in c++,programming in python,matlab,simulink,labview,p simulator,automation studio,arduino uno,raspberry pi,autocad,solidworks,unity 3d,blender 3d,catia,creo parametric ,ansys,web content management,html,postgresql,sql,c sharp scripting",p473
+kolkata,"java,c,c++,python,room database,javascript,cuda programming","p473,p475"
+hyderabad,"c,python,java,c++",p474
+hyderabad,"c,c++,python,java,numpy,scikit learn,matplotlib,tensorflow,keras,html,css,php,neural networks,deep learning,database",p474
+kolkata,"c,c++,java","p475,p466,p473"
+bangalore,"c language,c++ language,java,python,android development,web development,django,machine learning using python",p482
+bangalore,"mysql,core java,android,c,html,javascript,css,firebase","p482,p494"
+kolkata,"java,python,c++,sql,machine learning,cloud computing","p49,p199,p318,p348"
+chennai,"aws,python,java,hadoop framework","p49,p286,p320"
+kolkata,"c,c++,python,sql,django framework,tkinter","p49,p76"
+pune,"c++,java,flutter,python,django,sklearn",p5
+kolkata,"java,c++,c,html,bootstrap,python,dbms,data structure and algorithm,css,javascript","p5,p106"
+kolkata,"python 3,machine learning,natural language processing,shell scripting,java,javascript,neo4j,html,css,bootstrap,jquery,django,android,sql,php,c,c++,awk","p5,p106,p319"
+bangalore,"java,python,html,css,javascript,c,c++,sql,unix programming,php,machine learning,neural network,arduino programming,search engine optimisation,debugging skill,aws,github,docker","p518,p520"
+chennai,"c,c++,java,python,html,css,javascript,.net","p519,p528"
+bangalore,"c++,html,php,python,cloud,natural language processing","p52,p163"
+chennai,"c,c++,java,data structures,python,sql,cyber security,cloud",p520
+chennai,"c language,c++ language,java language,python,html,css,javascript,cloud computing,cryptography",p520
+bangalore,"python,java,c++,php,robot framework,javascript,android development",p521
+bangalore,"python,java,c++,php,android development,robot framework",p521
+bangalore,"python,c,c++,r,html,css,javascript",p521
+kolkata,"machine learning,c++",p521
+bangalore,"c,c++,java,python,html,css,javascript,sql",p521
+hyderabad,"problem solving,machine learning,artificial intelligence,data structures,python,c,data mining,deep learning",p522
+bangalore,"c++,c,mongo db,python,javascript,data structures and algorithm,java","p522,p523"
+bangalore,"python,machine learning,data science,rest api,javascript,java,j2ee,c sharp,c","p522,p529"
+chennai,"python,java,c,javascript,html,css,android,machine learning",p523
+chennai,"java,python,web development,sql,c++,c,tableau desktop,javascript,php","p523,p527"
+chennai,"c,c++,java,algorithm,natural language processing,python","p523,p536"
+hyderabad,"c,c++,java,python,blueprism,nodejs,html css,mysql oracle sql,javascript,php,data structures and algorithm",p525
+hyderabad,"c,java","p528,p529,p705"
+hyderabad,"python,java,c,sql,power bi,html,css,bootstrap,javascript,jquery",p530
+chennai,"c++,mysql,java,algorithm and data structures,angular 6,github,ionic framework,html,css,node js,python",p530
+chennai,"c,c++,java,python,mysql,c",p531
+chennai,"c language,c++,java,python,matlab,dsa,oops,virtuoso cadence",p532
+hyderabad,"python,machine learning,iot",p533
+chennai,"c++,php,python,java,sql,c,.net,r,xml",p533
+lucknow,"html,css,problem solving,javascript,python,react js,programming",p539
+kolkata,"c,c++,java se,web development,data structure algorithm",p539
+kolkata,"python,c++, data structures algorithm,java,competitive programming,object oriented programming","p539,p542,p697"
+delhi,"java,problem solving using programming,python,machine learning,dbms,c++ c,artificial intelligence,web development,android,algorithm","p539,p628"
+chennai,"c c++,java,python,javascript,html css","p541,p544,p547,p850"
+hyderabad,"python,c++,blockchain,sql,html,javascript,c","p542,p545,p697"
+hyderabad,"python,machine learning,aws,azure chatbot service,nodejs,django,algorithm,data structures","p542,p546,p634"
+mumbai,"java,python,c++",p544
+lucknow,"c++,pgp,jquery,html,css,php","p544,p546,p845"
+hyderabad,"python,machine learning,web development,java,c,deep learning,reactjs","p544,p572"
+lucknow,"problem solving,object oriented programming,full stack development","p544,p607,p699"
+lucknow,"problem solving,full stack web development,object oriented programming","p544,p607,p699"
+mumbai,"data structure and algorithm,c++,git,python,linux,nodejs,java script,go,shell scripting,ajax,mongo db,sql",p545
+delhi,"c,java,python,dbms,data structures,data science,uipath","p545,p546,p574"
+kolkata,"python,c,c++,html,java,css,javascript","p545,p691,p756"
+mumbai,"c++,python,nodejs,c,javascript,data structures,algorithm,java,npm","p545,p716,p743"
+kolkata,"java,machine learning,microsoft azure,python",p546
+delhi,"c,c++,java,html css,sql,data structure and algorithm,mysql,android app development,machine learning","p546,p556,p578"
+mumbai,"python,javascript,reactjs,nodejs,graphql,django",p549
+delhi,"python,java,sql,django,web scrapping","p550,p599"
+hyderabad,"c,c++,python,javascript,angular,nodejs,deep learning,machine learning",p551
+hyderabad,"python,c,c++,java,sql,html,css,bootstrap,angular,node js,express js","p551,p644"
+hyderabad,"c,c++,java,html,css","p551,p718,p735"
+pune,"problem solving,mechine learning,android development,javascprit","p554,p646,p718"
+mumbai,"node js,mongo db,python,html,css,javascript,c++,express js,bootstrap,react js",p562
+kolkata,"c++,c,java,python,mean,android studio,embedded c,php","p562,p567"
+kolkata,"c++,sql,java,linux,robotics,python,html,css,php",p568
+mumbai,"c,c++,core java,sql",p568
+hyderabad,"c,c++,java,python,html,css,bootstrap,angular,mongo db,sql,nodejs,express.js,rest api,git","p572,p573"
+hyderabad,"c,python programming,java programming,linux","p572,p578"
+pune,"java,python,c,sqlite,sql","p572,p665,p737,p765"
+lucknow,"machine learning,artificial intelligence,dev ops,programming with c++,programming with java,programming with python,android development using kotlin,containerisation using docker,red hat linux",p573
+hyderabad,"c++,html,python,os,dbms,cn,java,data structures,algorithm","p573,p695"
+kolkata,"android development,java,c,data structure","p574,p576,p578"
+kolkata,"c,c++,python,dbms,data analytics machine learning","p574,p600"
+chennai,"c,java,c++","p576,p637"
+mumbai,"c++,c,data structure and algorithm,object oriented programming,python","p576,p652,p717"
+mumbai,"j2se,c,c++,python,javascript,html,css,android development,algorithm,data structures,dbms",p578
+mumbai,"c++,java,python,rstudio,nodejs","p578,p653,p718,p829"
+lucknow,"python,javascript,competitive coding,c++,c,flask,rest api,java,android",p580
+lucknow,"problem solving,c++,c,python,html,css,bootstrap 4",p580
+hyderabad,"c,python programming,java programming,data structures,software engineering,data base management systems,data science",p580
+mumbai,"python,core java,machine learning,blockchain,mysql,no sql,iot,c,c++,html,css","p580,p634,p652"
+delhi,"competitive programming,data structures,operating systems,object oriented programming,c++,python,java,mysql,mongo db,flask","p581,p666"
+hyderabad,"c language,c++,java,python,mysql",p582
+pune,"java,c,python,bash,linux,mongo db,git,mysql","p582,p630"
+chennai,"c,dbms,c sharp,c++,java,computer networking,data structures,html and css,ui design",p583
+kolkata,"c,python,java,c++","p586,p636,p640"
+hyderabad,"flutter,android studio,python,java,c c++,nodejs",p592
+chennai,"dart,java,node js,java script,html,css,react js,c,python,c++","p592,p617,p821,p829"
+hyderabad,"python,c,java,c++,html,css,java script,machine learning,sql","p593,p734"
+hyderabad,"machine learning,deep learning,python,c,c++,java,flask,data science,html,css,java script,natural language processing","p593,p734,p758"
+hyderabad,"c,c++,python,java,html,sql","p593,p758"
+chennai,"python,java,c,mysql,nodejs,mongo db,javascript,machine learning,data analytics,computer vision,react js","p6,p154"
+chennai,"java,c,python,database management systems,machine learning algorithm,cloud computing,react js,html,object oriented programming concept","p6,p89,p90"
+kolkata,"python,java,c,android,c++,django,spring hibernate,it support,machine learning,web security","p600,p697"
+mumbai,"java,python,mysql,rdbms","p607,p610"
+ahmedabad,"programming in c language,c++ language,java language,javascript,html,css,php","p607,p618"
+kolkata,"java programming,python programming,data structures and algorithm","p608,p617"
+hyderabad,"python,java,c,javascript,html css,jquery","p608,p638,p639"
+kolkata,"competitive coding,image processing and computer vision","p613,p614,p615"
+delhi,"python,c++,machine learning,flask,git,tensorflow,matlab,linux,windows","p613,p661,p697"
+delhi,"ml,data structure and algorithm,android app development,computer vision,robotics,html,c++,object oriented programming,python,matlab,node js,css","p614,p624"
+mumbai,"python,tensorflow,machine learning,deep learning,image processing,flask,django,flutter","p615,p624,p686"
+delhi,"java,aws,sql,linux,c language","p616,p639"
+hyderabad,"python,machine learning,c++,java,data structures and algorithm,sql","p617,p638,p713"
+hyderabad,"python,java,c,machine learning,html,css,jsp,sql,android studio","p617,p638,p713"
+hyderabad,"java,opencv,logic building,aws machine learning,android","p617,p683,p854"
+mumbai,"javascript,nodejs,mongo db,express,c++,python,html,css","p618,p716"
+kolkata,"python,c,java",p623
+hyderabad,"c language,c++,java",p629
+hyderabad,"c language,c++,python,html,css,javascript,bootstrap,django,sql,angular","p629,p643,p672"
+chennai,"python,machine learning,deep learning,artificial intelligence,object oriented programming,data structures,html",p63
+hyderabad,"c,python,machine learning,java,html,css,sql,jsp,arduino programming,android studio","p638,p667,p713"
+hyderabad,"c,python,data structures,java,mysql,opencv","p638,p683,p740"
+hyderabad,"c language,java,python","p638,p700"
+pune,"c,c++,python","p638,p750"
+pune,"core java,python 3,c,javascript es6 programming language,css,html,git,flask micro web framework,rest api,r programming language,heroku,xampp,postgresql,nginx,github,gitlab",p639
+hyderabad,"c,c++,java,data structures,problem solving","p639,p760"
+pune,"java,c++,python,android app development,competitive programming","p639,p761"
+delhi,"aws,digital marketing,seo,basics of blockchain,basics of python ,c,c++,core java,adobe spark,html,css,core php,javascript","p64,p94"
+ahmedabad,"java,php,cloud computing,c,c++,python,networking,web devloping","p641,p701,p752"
+bangalore,"android development,java,python,c++","p641,p752"
+delhi,"programming in java,programming in c,android",p643
+bangalore,"c++,nodejs,mongo db,java,mysql,python,c,.net,html","p643,p645,p755"
+chennai,"python,java,flask,machine learning,deep learning,ethereum,javascript,web development","p643,p688,p714"
+hyderabad,"android development,web development,programming in java",p646
+chennai,"c++,java,c,data analysis,machine learning,web development",p647
+ahmedabad,"java,react native,blockchain,javascript,c++,data structures,algorithm,operating system,competitive programming,computer networks,dbms,elasticsearch,reactjs","p647,p673,p674"
+trivandrum,"python,c++,machine learning,django rest framework,octave,raspberry pi,mplab,html","p647,p714"
+hyderabad,"c language,python,java",p648
+hyderabad,"python,c,java,machine learning,computer vision,production ready code,sql on oracle database,mongo db",p65
+hyderabad,"c,java,labview",p650
+hyderabad,"c language,python,java,ni labview,sql,r programming,html,css,javascript",p650
+hyderabad,"c,c++,java,python,html,css,bootstrap,dbms,opencv,data structures and algorithm","p650,p736"
+kolkata,"c,python,data structures,java,flask,fundamentals of blockchain,dbms","p652,p708"
+chennai,"python programming,c c++",p655
+bangalore,"c,c++,java,python,html,mysql","p655,p707"
+mumbai,"c++,java,python,dbms,machine learning,html css js,c","p657,p716"
+lucknow,"c++,c,python,java",p661
+pune,"python,c,data science,machine learning","p661,p723"
+delhi,"deep learning,machine learning,python,core java,computer vision,natural language processing","p665,p697"
+pune,"python,c++,problem solving","p665,p723,p766"
+kolkata,"python,machine learning,deep learning,c,java,game development",p666
+chennai,"python,machine learning,data science,c,html",p667
+delhi,"java,python",p667
+hyderabad,"coding,python,java,c++,c,mysql oracle","p667,p742"
+kolkata,"python,machine learning,data science,deep learning,django",p67
+chennai,"aws,artificial intelligence machine learning deep learning,rapid miner,gis softwares,html css js php angular js nodejs,dbms mysql ,rapid miner tableau",p67
+chennai,"java,internet of things,rdbms,microcontrollers arduino nodemcu ,web programming, html ,css, javascript ,android development,c,c++ programming,python programming","p67,p107"
+delhi,"java language,c++ language,data structure,algorithm","p67,p107"
+chennai,"c c++,java,python,sql,html css javascript,machine learning,deep learning,dbms,web development,ui design,data structures and algorithm,os,android app development","p67,p81,p89"
+chennai,"python,java,deep learning,machine learning,statistics,natural language processing","p67,p90"
+mumbai,"c++,c,java","p673,p674"
+hyderabad,"ethical hacking,cyber security,c++,java,html,python","p674,p700,p701,p850"
+hyderabad,"c,python programming,java,c++,machine learning","p674,p767"
+chennai,"android development,java,python,testing,c++,dbms,mysql,react native",p683
+trivandrum,"python,r,matplotlib,numpy,pandas,c c++",p688
+kolkata,"python,c,java,web development",p688
+delhi,"python,c++,data structure and algorithm,big data analytics","p688,p764"
+chennai,"c++,python,machine learning,neural networks and deep learning","p689,p719,p728"
+delhi,"java,python,excel,c++,tableau","p689,p767"
+kolkata,"python,machine learning using python,competitive coding,c",p695
+bangalore,"c++,java,javascript,c,html,css,python",p695
+delhi,"python,mysql,data science,machine learning,c,java,salesforce,kafta","p7,p100"
+chennai,"c,c++,java,javascript,php,html,css,python,r,mysql,microsoft office","p7,p83"
+chennai,"java,data structures and algorithm,blockchain technology,python,ethereum solidity programming,php mysql,spring boot",p70
+bangalore,"algorithm and data structures,android app development,java,c,c++,python,sql,network building and simulation",p700
+hyderabad,"c language,c++,java,python","p701,p714"
+hyderabad,"c,python,julia,version control with git,sql,algorithm",p707
+trivandrum,"android development,web development",p707
+bangalore,"django,javascript,python,debugging,java,html css",p708
+mumbai,"python,c++,deep learning,django,nodejs,reactjs,web development",p709
+pune,"python,bug bounty hunting,c++,data structures and algorithm",p710
+hyderabad,"c,c++,java,python,os,dbms,machine learning",p713
+trivandrum,"python,c,c++,java,java script",p714
+chennai,"c,c++,python,java","p714,p724,p648,p655"
+delhi,"python,c++","p717,p720"
+hyderabad,"python,c,adobe spark","p718,p719"
+hyderabad,"c,c++,java,python,sql,data structures and algorithm,html and css,dbms,operating systems,deep learning and neural networks,machine learning,python for machine learning,block chain","p718,p738,p750,p854"
+delhi,"nodejs,react js,sql,mongo db,javascript,css,c++,data structure and algorithm","p718,p744"
+hyderabad,"c,python,html,css,data base,ui path,java",p719
+hyderabad,"c c++,python,java,html css,django,data science",p723
+hyderabad,"c,c++,java,python,soft skills,html,css,javascript,sql dbms","p724,p735"
+hyderabad,"web development,c++,python,java,machine learning,java script,sql","p724,p755"
+hyderabad,"c c++,python,java,html,css,javascript,mysql","p724,p755"
+pune,"c++,python,java,sql,c,android",p727
+chennai,"python,aws,java",p728
+kolkata,"data structure,algorithm,problem solving,competitive programming,object oriented programming,java,c++,c",p729
+ahmedabad,"c c++,java,django,nodejs,react.js,python,linux,javascript",p729
+bangalore,"java,javascript,machine learning,python,deep learning,web development",p73
+chennai,"basic data science with python,augmented reality,python,java,unity development,php,deep learning,springboot,mongo db,sql","p73,p77,p99"
+lucknow,"c c++,nodejs,javascript,html,css,data structures,mongo db,sql,problem solving,react.js",p730
+hyderabad,"c,c++,python,java,html,sql,data structures,design and analysis of algorithm,machine learning","p739,p765"
+chennai,"c,c++,core java,python,php,r programming,javascript,sql,big data,cloud computing,data structures,algorithm,html,css,text mining,artificial intelligence","p74,p405"
+hyderabad,"c++ ,java,python,django,data visualization,machine learning,deep learning,sql,competitive coding",p740
+mumbai,"python,c++,java,c,android development","p740,p746"
+hyderabad,"c,c++,machine learning,deep learning,python,tkinter,tensorflow keras,flask,mysql databases ,mongo db,html css",p742
+hyderabad,"java,c",p744
+ahmedabad,"competitive programming,advanced data structures and algorithm,c++,python,data science,software development",p744
+mumbai,"c++,java,python,django,open cv,java script",p744
+pune,"nodejs,java,android,flutter,reactjs,python,git,linux,data structures,algorithm,firebase,javascript,html,css,mysql","p744,p760"
+ahmedabad,"python,c++,c,java,problem solving,html css",p751
+ahmedabad,"problem solving,c c++ java,python frameworks django flask ,sql,html,css js,machine learning,deep learning,ds and algo,github,jupyter notebook,csharp,android studio,photoshop",p751
+ahmedabad,"android,python,sql database,html css,javascript,php,java,machine learning,c c++","p751,p755"
+ahmedabad,"java,dbms,php,python,aws,flask,android","p752,p760"
+hyderabad,"python,keras,opencv,machine learning","p758,p765"
+delhi,"python,machine learning,java,android","p76,p160"
+kolkata,"c++,c",p761
+pune,"c++,python,android,sql,c,machine learning,data analytics,java,javascript,r",p764
+hyderabad,"python using data structures,programming using c,c++,html,sql,css,java script","p765,p839"
+ahmedabad,"c c++,flutter,java,html css,java script,php,data structures,dart,jdbc,servlet",p767
+chennai,"java,c,c++,eclipse,mysql,weka,data mining,dbms,oops,object oriented programming","p77,p78"
+chennai,"python,java core,java advanced,php basics ,arduino programming,dbms mysql","p77,p79,p95"
+chennai,"machine learning,web development,c++,java,android development",p78
+kolkata,"hardware design,iot and device design,c,java,python,machine learning,image processing,digital electronics,data base management system","p78,p290"
+hyderabad,"c,java,python",p780
+hyderabad,"c,c++,python,java,html css js,react library,sql","p780,p852"
+lucknow,"problem solving,data structure and algorithm design,c++,git,linux,sublime text",p782
+delhi,"nodejs,react,mongo db,mysql,java,python,web frontend",p782
+lucknow,"data structures and algorithm,python,java,c++","p782,p830"
+lucknow,"c++,c,web development,data structures and algorithm,python,javascript,java,mysql","p782,p855"
+delhi,"android app development,java,firebase,data structures,algorithm","p79,p316"
+chennai,"java,statistics,machine learning,python","p83,p134,p156"
+chennai,"nodejs,mongo db,machine learning,qt framework,python,unity 5 game engine,javascript,git version control,java,c++,object oriented programming,html","p83,p300"
+mumbai,"python,c++,django","p830,p856"
+delhi,"python,django,html,css,fundamental of cyber security,sql,git",p831
+chennai,"c,python,java,c++,dart,flutter,mysql,rpa,html,javascript,nodejs,jquery,bootstrap,php",p831
+mumbai,"machine learning,python,deep learning,data structure,c++,unity",p833
+kolkata,"java,problem solving",p833
+kolkata,"c++,python",p833
+lucknow,"c,core java,android app development,python programming skills ,basics of iot,machine learning,html,css,node js",p835
+hyderabad,"c,c++,react",p835
+chennai,"c++,c,java",p838
+kolkata,"data structure and algorithm,asp.net,c++,c,reactjs,python,java,web development,competitive programming,html,css",p839
+kolkata,"java,c,c++,python,machine learning",p840
+delhi,"c,c++,html,css,javascript,nodejs,python",p840
+kolkata,"c++,python,web development,javascript,jquery,html,css,bootstrap,django",p841
+mumbai,"python,data structure,deep learning,dbms",p845
+mumbai,"python,c,c++,css,algorithm and data structure,javascript",p845
+delhi,"c,java,html,css,c++",p847
+delhi,"data structures and algorithm,java,javascript,nodejs,sql","p847,p852"
+hyderabad,python,"p85,p141"
+delhi,"java,data structures,algorithm,c++,python",p855
+delhi,"data structure,c++,html css,sql,java,javascript,python,database,.net",p855
+lucknow,"competitive programming,machine learning,leadership,c++,c",p855
+delhi,"c++,excel,tableau,sql,html,ibm spss,python,java,r programming,linux",p855
+mumbai,"c,c++,java,sql,data structures,mean stack,php",p855
+kolkata,"c,c++,java,python,html,css,javascript,express,mongo db,natural language processing",p855
+mumbai,"c++,python,c,front end web development,data structure and algorithm",p856
+hyderabad,"java,c,python",p857
+hyderabad,"c++,java,python 3,nodejs,docker,spring boot mvc,machine learning",p86
+chennai,"c,c++,python,html,css,web development,java","p86,p466"
+kolkata,"android,java,python,c,xml,html,css,java script,jsp,ui ux design,firebase,sql,hadoop,data structures,algorithm,json,ui ux",p88
+kolkata,"c,c++,python,javascript","p88,p367"
+chennai,"java,c++,sql,digital security ,blockchain,iot,cloud","p88,p97"
+chennai,"python,c c++,java,dbms,operating system,deep learning,competitive coding","p89,p90"
+chennai,"python,c c++,data analytics,dbms,computer networks,git,cloud computing,machine learning,nosql,iot","p89,p90"
+chennai,"android app development,java jse,java jee,adobe photoshop ui ux ,adobe xd ui ux ,python,django,machine learning,html,css,php,sql,mongo db,data structures and algorithm","p89,p92,p98"
+hyderabad,"python,django,c,oracle,tensorflow,machine learning,aws,java,dialogflow,bootstrap,javascript,r,opencv,flask,react,react native",p9
+pune,"c,c++,java,python,mysql,salesforce","p90,p98"
+trivandrum,"python,image processing,machine learning,aws,convolutional neural networks",p91
+mumbai,"python,c++,java,machine learning,mysql","p91,p272,p345"
+delhi,"python,machine learning,deep learning,web development,c","p91,p497"
+chennai,"algorithm design and analysis,c++,dbms,data structure,java,python,android","p92,p95"
+chennai,"python,data visualization,c,java,presentation and reporting,algorithm,sql,networking",p93
+chennai,"java,swfit,graphics designing,python,php,web development,c c++,video editing,ethical hacking",p93
+chennai,"html,css,js,bootstrap,php,mongo db,nodejs,express,c++,java,python","p93,p110"
+hyderabad,"java,c,python,html,css,javascript,php,sql,bootstrap,shell programming,apache kafka,apache ignite",p94
+trivandrum,"c++,r",p95
+delhi,"java,javascript nodejs express ,c,python 3,c++,html,css,bootstrap","p95,p363"
+delhi,"trading,java core+swing framework ,c sharp,asp.net mvc,python,graphics designing,c and c++,blockchain,blockchain fundamentals",p96
+hyderabad,"c++,c,java,javascript",p97
+mumbai,"nodejs,j2ee,python,java,restful services,data structure and algorithm,javascript,c,git,mongo db,mysql",p99
