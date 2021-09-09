@@ -50,3 +50,6 @@ TCS Talent Ocean Registration Ends on: 17 December 2020, 12 30 UTC
 • Ends 15th Jat, 2021, 12:30 UTC
 
 • Takes Place Online
+
+[approach.pdf](https://github.com/vermaatul9565/Hackathon-TCS-Talent-Ocean/files/7133564/approach.pdf)
+
